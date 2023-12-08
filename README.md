@@ -5,3 +5,6 @@
 
 ## Criando um app (MODULE)
     - python3 manage.py startapp app_name
+
+## Rodando development server
+    - python3 manage.py runserver
